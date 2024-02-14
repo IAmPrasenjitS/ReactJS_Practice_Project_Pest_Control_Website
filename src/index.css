@@ -1,0 +1,11 @@
+/* .form-sec {
+    padding-left: 33.33% !important;
+    margin-right: 20%;
+} */
+.btn.btn-primary.btn-reg:hover {
+    box-shadow: inset 407px 0 0 0 var(--bs-dark) !important;
+}
+.errorMessage{
+    color: red;
+    font-weight: bold;
+}
